@@ -11,12 +11,12 @@ As a fan of Netflix's user interface, I decided to recreate their homepage to ho
 
 ## 📸 Preview
 
-![Screenshot 2024-03-22 181022](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/29616825-6f4e-48ae-a549-a6127261369b)
-![Screenshot 2024-03-22 181203](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/2121611e-9be6-43b1-9f19-c2658576145e)
-![Screenshot 2024-03-22 181306](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/f36d2fbf-d235-4697-b425-b2c6868f6083)
-![Screenshot 2024-03-22 181339](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/e671f2fc-77a6-4010-a0f3-a141aba16f0d)
-![Screenshot 2024-03-22 181415](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/47e025ac-a119-4b8e-b8da-26c8d0912c2f)
-![Screenshot 2024-03-22 181432](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/9c081f5f-e605-4e01-b113-10431ca923ce)
+![Screenshot 2024-03-22 190243](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/3e088075-c77f-4558-959d-2a9560d826e3)
+![Screenshot 2024-03-22 190331](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/9551aabf-3405-4c15-8724-7f8aee27117e)
+![Screenshot 2024-03-22 190351](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/d7820e15-a91b-4684-a326-91fe102e6680)
+![Screenshot 2024-03-22 190427](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/a547f835-aee5-4b97-9e39-3970be49c857)
+![Screenshot 2024-03-22 190447](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/5d328a3b-0c0c-43f6-8e8b-7c9103cc5999)
+![Screenshot 2024-03-22 190503](https://github.com/Himanshu3412/Netflix_Clone/assets/163979859/b6c383cd-cf00-4283-9c33-0628d145f6ab)
 
 ## 👉 Demo
 
