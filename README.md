@@ -11,4 +11,4 @@ As a fan of Netflix's user interface, I decided to recreate their homepage to ho
 
 ## Preview
 
-![image](C:\Users\user\Desktop\Study\WebD\Web Development\Project\Netflix-Clone\Preview\Screenshot 2024-03-22 181022.jpg)
+![image](C:\Users\user\Desktop\Study\WebD\Web Development\Project\Netflix-Clone\Preview\Screenshot 2024-03-22 181022)
