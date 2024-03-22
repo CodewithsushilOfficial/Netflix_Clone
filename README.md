@@ -11,4 +11,3 @@ As a fan of Netflix's user interface, I decided to recreate their homepage to ho
 
 ## Preview
 
-![image](Netflix_Clone/Preview/Screenshot 2024-03-22 181022.jpg)
