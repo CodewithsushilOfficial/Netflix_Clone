@@ -17,12 +17,6 @@ As a fan of Netflix's user interface, I decided to recreate their homepage to ho
 
 Check out the live demo of the Netflix Homepage Clone here [Demo](https://github.com/Himanshu3412/Netflix_Clone).
 
-## 😉 Get in Touch
-
-Thank you for exploring the Netflix Homepage Clone! If you have any questions, suggestions, or feedback, feel free to reach out to me via GitHub:
-
-- GitHub: [Himanshu3412](https://github.com/Himanshu3412)
-
 ## 🔥 Contributing
 
 Contributions to this project are welcome! Before contributing, please take a moment to review the following guidelines:
@@ -44,8 +38,14 @@ Before submitting a pull request, ensure that your changes:
 - Adhere to the project's coding standards.
 - Are properly documented (e.g., code comments, README updates).
 
+## 😉 Get in Touch
+
+Thank you for exploring the Netflix Homepage Clone! If you have any questions, suggestions, or feedback, feel free to reach out to me via GitHub:
+
+- GitHub: [Himanshu3412](https://github.com/Himanshu3412)
+
 Thank you for your support and contributions!
-## All the best! 🥇
+## 🥇 All the best! 
 
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Himanshu3412/Netflix_Clone)
 
