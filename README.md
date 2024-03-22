@@ -45,3 +45,7 @@ Before submitting a pull request, ensure that your changes:
 - Are properly documented (e.g., code comments, README updates).
 
 Thank you for your support and contributions!
+## All the best! 🥇
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Susmita-Dey/Netflix-Clone)
+
