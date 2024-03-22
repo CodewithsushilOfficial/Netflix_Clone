@@ -9,21 +9,21 @@ Welcome to the Netflix Homepage Clone project! 🎬
 Have you ever wanted to recreate the magic of the Netflix browsing experience right in your browser? Well, you've come to the right place!
 As a fan of Netflix's user interface, I decided to recreate their homepage to hone my frontend development skills. This project allowed me to practice HTML structure, CSS styling, and a bit of JavaScript for interactivity.                                  
 
-## Preview
+## 📸 Preview
 
 
 
-## Demo
+## 👉 Demo
 
 Check out the live demo of the Netflix Homepage Clone here [Demo](https://github.com/Himanshu3412/Netflix_Clone).
 
-## Get in Touch
+## 😉 Get in Touch
 
 Thank you for exploring the Netflix Homepage Clone! If you have any questions, suggestions, or feedback, feel free to reach out to me via GitHub:
 
 - GitHub: [Himanshu3412](https://github.com/Himanshu3412)
 
-## Contributing
+## 🔥 Contributing
 
 Contributions to this project are welcome! Before contributing, please take a moment to review the following guidelines:
 
