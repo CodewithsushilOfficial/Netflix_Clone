@@ -11,3 +11,8 @@ As a fan of Netflix's user interface, I decided to recreate their homepage to ho
 
 ## Preview
 
+
+
+## Demo
+
+Check out the live demo of the Netflix Homepage Clone here (https://github.com/Himanshu3412/Netflix_Clone).
