@@ -1,1 +1,1 @@
-# Netflix_Clone
+Designed a fully fuctional netflix 
