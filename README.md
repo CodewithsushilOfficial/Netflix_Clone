@@ -20,7 +20,7 @@ As a fan of Netflix's user interface, I decided to recreate their homepage to ho
 
 ## 👉 Demo
 
-Check out the live demo of the Netflix Homepage Clone here [Demo](https://netflix-clone-mu-beryl.vercel.app/)
+Check out the live demo of the Netflix Homepage Clone here [Demo](https://netflix-clone-g0f2k3rts-sushil-kumar-kushwahas-projects.vercel.app/)
 
 ## 🔥 Contributing
 
